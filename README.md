@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋 I'm Yajushi 
+Passionate about the convergence of artificial intelligence and human ingenuity, I am an aspiring Computer Science student driven by an insatiable curiosity to explore, innovate, and solve real-world problems through intelligent systems. My academic and personal journey has led me to immerse myself in AI, machine learning, and data-driven technologies that hold the power to reshape how we live, think, and connect.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yajushi-vudatha) 
