@@ -4,7 +4,6 @@
 
 Building AI agents that reason, retrieve, and automate complex workflows using LLMs, RAG, MCP, vector databases, and scalable backend systems.
 
-**LinkedIn** • **GitHub**
 
 ---
 
