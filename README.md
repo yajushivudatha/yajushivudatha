@@ -7,7 +7,7 @@ Building AI agents that reason, retrieve, and automate complex workflows using L
 
 ---
 
-## 🚀 Building
+## 🚀 Experience
 
 * **Enterprise Agentic AI @ Criterion Networks**
 * **Healthcare LLM Systems @ Kriss AI**
