@@ -7,14 +7,6 @@ Building AI agents that reason, retrieve, and automate complex workflows using L
 
 ---
 
-## 🚀 Experience
-
-* **Enterprise Agentic AI @ Criterion Networks**
-* **Healthcare LLM Systems @ Kriss AI**
-* **AI Infrastructure & Network Visualization @ Criterion Network Labs**
-
----
-
 ## 🚀 Featured Work
 
 ### 🛡️ ComplianceClaw
