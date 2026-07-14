@@ -23,12 +23,6 @@ Distributed platform connecting food donors with NGOs through scalable backend a
 
 ---
 
-## 🏆 Highlights
-
-🏅 Selected Delegate — Harvard Project for Asian and International Relations (HPAIR) Asia Conference 2026
-
----
-
 ## 🌟 Currently Exploring
 
 * Agentic AI
